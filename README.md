@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Chitran Sarkar</h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🔧 Hardware Tinkerer (Arduino, Sensors) from India</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🔧 Hardware Tinkerer (Arduino, Sensors)</h3 align="center">
+<h3 align="center">from India</h3>
 
 <p align="center">
   I'm a passionate developer from India who loves building intelligent systems, exploring machine learning, and tinkering with hardware. Whether it's full-stack apps, deploying models, or wiring up sensors, I enjoy learning and building things that make an impact.
