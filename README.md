@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBvMmJ2MGNpMTVibG9rYnBvdmV1M2poNTF1MG8wd3JkYjJwNno4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋,I'm Chitran Sarkar</h1>
@@ -53,10 +53,10 @@
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>&nbsp;
+  <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpjcHdieXRobjY1ZzF1dmJvMDVibGRvaGc4OWQyMXgxeGt1NDBpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>&nbsp;
+  <img height=100px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhrYm9rcmJuODQwazFyeXI1bjV1Nno2amt4YTQ5NHpqNWRlZ3p2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash"/>&nbsp;
@@ -96,7 +96,7 @@
 #### 🤖 Hardware & Design
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" title="Android"/>&nbsp;
+  <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05b2k5eDVxNDUyZml0ZXZiZzJwNzNyYmZmZXRnNGg2cTFuOHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" title="Canva"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" title="Blender"/>&nbsp;
