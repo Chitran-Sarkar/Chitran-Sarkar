@@ -59,11 +59,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iaW9waXlkdTM2NzQ3eGQ2bHIzNXNmaHByZnFqNThlbXRld3dteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/udvEcwFgNFboJWcHIB/giphy.gif" height="30" title="C++"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iaW9waXlkdTM2NzQ3eGQ2bHIzNXNmaHByZnFqNThlbXRld3dteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/udvEcwFgNFboJWcHIB/giphy.gif" height="30" title="C++"/>&nbsp;
   <img height=100px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhrYm9rcmJuODQwazFyeXI1bjV1Nno2amt4YTQ5NHpqNWRlZ3p2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhnZXBkZDAwMWozOHAwcTFpanl3empxYjhxdmN4OWJwcTNnaTMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xVXk6ba5ohXT91xHTg/giphy.gif" height="90" title="TypeScript"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ0MG9uczA2NHo1ODJpa2VoYWtyOGc4azZrdzVhemM4ZnFhYjZsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/TiN49dtRfqQVkTW3Fk/giphy.gif" height="90" title="TypeScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-download-in-svg-png-gif-file-formats--programming-language-logo-logos-pack-icons-1174965.png?f=webp&w=256" height="100" title="TypeScript"/>&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU0Yzc5NGpob29vaDRmNGVpZnozZTN2MjZyZ2Q5cGFvanNsMmJ6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sbrqfuotRaQefJCQ4p/giphy.gif" height="100" title="PHP"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" height="100" title="Bash"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="100" title="OpenCV"/>&nbsp;
 </p>
 
 #### 🔬 AI / ML / Data Science
