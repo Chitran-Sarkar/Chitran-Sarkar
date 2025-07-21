@@ -54,10 +54,13 @@
 #### 💻 Programming Languages
 <p align="left">
   <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpjcHdieXRobjY1ZzF1dmJvMDVibGRvaGc4OWQyMXgxeGt1NDBpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtxcmtncGc1cnJ2ZWszdWFrdDM3dG1najVtbmZ6cWxrNzkzZ2hnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif" height="100" title="Java"/>&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndiY3pzNGozemxvcTdvZWZzbXVjNm93eTNwODEyNGJ6NjZjaWtjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/q5veCQwHeThxOFqYZQ/giphy.gif" height="80" title="C++"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iaW9waXlkdTM2NzQ3eGQ2bHIzNXNmaHByZnFqNThlbXRld3dteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/udvEcwFgNFboJWcHIB/giphy.gif" height="30" title="C++"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iaW9waXlkdTM2NzQ3eGQ2bHIzNXNmaHByZnFqNThlbXRld3dteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/udvEcwFgNFboJWcHIB/giphy.gif" height="30" title="C++"/>&nbsp;
   <img height=100px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhrYm9rcmJuODQwazFyeXI1bjV1Nno2amt4YTQ5NHpqNWRlZ3p2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhnZXBkZDAwMWozOHAwcTFpanl3empxYjhxdmN4OWJwcTNnaTMwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/xVXk6ba5ohXT91xHTg/giphy.gif" height="90" title="TypeScript"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ0MG9uczA2NHo1ODJpa2VoYWtyOGc4azZrdzVhemM4ZnFhYjZsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/TiN49dtRfqQVkTW3Fk/giphy.gif" height="90" title="TypeScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>&nbsp;
@@ -85,9 +88,9 @@
 #### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBrNjc4eWlvemhnOHVvMmc4ZHVxcm03NzY2M3N3OGhtaTFhencxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" "/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xYTlndmppdm83Ym05cWUzcnpxbDlrbDdreDllcmJzanV4OXBvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" height="100" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdydnpzYWM5eHB2dTVoaTByY3VodGd2eDJkcXczd2hwaWd5ZmFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" height="100" title="VS Code"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" title="Ubuntu"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;
 </p>
