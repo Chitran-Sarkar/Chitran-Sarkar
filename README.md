@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Chitran Sarkar</h1>
+<h1 align="center">Hi 👋,I'm Chitran Sarkar</h1>
 <h3 align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🔧 Hardware Tinkerer (Arduino, Sensors)</h3 align="center">
 <h3 align="center">from India</h3>
 
