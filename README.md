@@ -88,7 +88,7 @@
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBrNjc4eWlvemhnOHVvMmc4ZHVxcm03NzY2M3N3OGhtaTFhencxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" "/>&nbsp;
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xYTlndmppdm83Ym05cWUzcnpxbDlrbDdreDllcmJzanV4OXBvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" height="100" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="100" title="Docker"/>&nbsp;
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdydnpzYWM5eHB2dTVoaTByY3VodGd2eDJkcXczd2hwaWd5ZmFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" height="100" title="VS Code"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/c6e4c4aa-e14c-484d-aa8e-df4b9cd12500" height="100" title="Ubuntu"/>&nbsp;
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q4NjVrMmR0czNqczF1OWp1c3h5OXRzb3dyeTF2OHE2M2t5dXRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif" height="150" title="Linux"/>&nbsp;
@@ -96,14 +96,14 @@
 
 #### 🤖 Hardware & Design
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtwbWF0MHV5enB3NWhkcXphMnFucHN4djA3dW51dXo3amxuenZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pYKXqcgxnRQJdnTtdu/giphy.gif" height="150" title="Arduino"/>&nbsp;
   <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05b2k5eDVxNDUyZml0ZXZiZzJwNzNyYmZmZXRnNGg2cTFuOHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif"/>&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpzcTdqc3o1NjRrYnN5cmY5ZmpmcDQwNjhyNmp0ZnU2czl0YWRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/CC0dAtZ8FOU10xfwIP/giphy.gif" height="100" title="Canva"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" title="Blender"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" title="Photoshop"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" title="Anaconda"/>&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpzcTdqc3o1NjRrYnN5cmY5ZmpmcDQwNjhyNmp0ZnU2czl0YWRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/CC0dAtZ8FOU10xfwIP/giphy.gif" height="150" title="Canva"/>&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0NW5qOWpocmtvMDl6aWh0NXJzdjFkd2h0MHl1YmhjMXdxbHFrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZIEqJCPv4D93FmUVTG/giphy.gif" height="100" title="Figma"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="100" title="Blender"/>&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2liOGE3ZWkwc3dhejB6MGczemJ3dWEzOW05YXo2aW9seG1oeWljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8823qBqr7skYHkks/giphy.gif" height="100" title="Photoshop"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="100" title="Jupyter Notebook"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="100" title="Anaconda"/>&nbsp;
 </p>
 
 ---
