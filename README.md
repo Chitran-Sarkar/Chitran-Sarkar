@@ -67,8 +67,8 @@
 
 #### 🔬 AI / ML / Data Science
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="100" title="PyTorch"/>&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtOXZoNmJjZXA4ZWEzYTJzNWUyNXFvaG9iZDkwMDgxZnJmZHJhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.gif" height="100" title="TensorFlow"/>&nbsp;
 </p>
 
 #### 🌐 Web Development
@@ -78,10 +78,10 @@
   <img height=100px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF0NHY5NXg2cnh0ZzgxZHlrdHd5NGVsenp1dnVkZ3hocjFoYnc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>&nbsp;
   <img height=100px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODloM2hhdWk3MDgwc2VkMzFmZ2wza3ViMzRjZmVia2J6eWp6Y3Z1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sr8xDpMwVKOHUWDVRD/giphy.gif"/>&nbsp;
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW14eG9qemtvd3R3cnRjODhzbjhkYm4wdm14MXUxZWkxeTkzMXh1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" height="100""/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" title="Tailwind CSS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="100" title="Django"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="100" title="MySQL"/>&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRxeHh6ZjRpYzJhajBzemlhMTVwd2IxZ3AwbjNlem9ucmN4bTRqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" height="130" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" title="Tailwind CSS"/>&nbsp;
 </p>
 
 #### 🧰 Tools & Platforms
@@ -90,15 +90,15 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xYTlndmppdm83Ym05cWUzcnpxbDlrbDdreDllcmJzanV4OXBvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" height="100" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>&nbsp;
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdydnpzYWM5eHB2dTVoaTByY3VodGd2eDJkcXczd2hwaWd5ZmFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" height="100" title="VS Code"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" title="Ubuntu"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/c6e4c4aa-e14c-484d-aa8e-df4b9cd12500" height="100" title="Ubuntu"/>&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q4NjVrMmR0czNqczF1OWp1c3h5OXRzb3dyeTF2OHE2M2t5dXRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif" height="150" title="Linux"/>&nbsp;
 </p>
 
 #### 🤖 Hardware & Design
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino"/>&nbsp;
   <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05b2k5eDVxNDUyZml0ZXZiZzJwNzNyYmZmZXRnNGg2cTFuOHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" title="Canva"/>&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpzcTdqc3o1NjRrYnN5cmY5ZmpmcDQwNjhyNmp0ZnU2czl0YWRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/CC0dAtZ8FOU10xfwIP/giphy.gif" height="100" title="Canva"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" title="Blender"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" title="Photoshop"/>&nbsp;
