@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBvMmJ2MGNpMTVibG9rYnBvdmV1M2poNTF1MG8wd3JkYjJwNno4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBmOXFvdGtqZW42NjFqZG1vZ2xzMnRiaGtwZGd4dzBrOXRtZ250ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋,I'm Chitran Sarkar</h1>
