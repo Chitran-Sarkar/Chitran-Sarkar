@@ -1,49 +1,54 @@
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBmOXFvdGtqZW42NjFqZG1vZ2xzMnRiaGtwZGd4dzBrOXRtZ250ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" />
+  <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="180" alt="Developer GIF"/>
 </div>
 
-<h1 align="center">Hi 👋,I'm Chitran Sarkar</h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🔧 Hardware Tinkerer (Arduino, Sensors)</h3 align="center">
-<h3 align="center">from India</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d;">Chitran Sarkar</span></h1>
+<h3 align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🔧 Hardware Tinkerer (Arduino & Sensors)</h3>
+<h4 align="center">from 🇮🇳 India</h4>
+
+---
 
 <p align="center">
-  I'm a passionate developer from India who loves building intelligent systems, exploring machine learning, and tinkering with hardware. Whether it's full-stack apps, deploying models, or wiring up sensors, I enjoy learning and building things that make an impact.
+  I'm a passionate developer who loves building intelligent systems, exploring ML, and tinkering with hardware.  
+  Whether it’s full-stack apps, deploying models, or wiring sensors — I enjoy learning, experimenting, and creating things that make an impact.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chitran-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="chitran-sarkar" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitran-sarkar&show_icons=true&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chitran-sarkar&layout=compact&theme=radical" height="200"/>
+  <img src="https://komarev.com/ghpvc/?username=chitran-sarkar&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### ⚙️ GitHub Analytics
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=chitran-sarkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitran-sarkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
 
 - 🔭 Currently working on a **Garbage Detector** project  
 - 🌱 Learning to **build LLMs from scratch**  
-- 👯 Open to collaborating on **deep learning & unsupervised model training**  
-- 🤝 Looking for help in **machine learning**  
-- 💬 Ask me about **TensorFlow**
+- 👯 Open to collaborating on **Deep Learning & Unsupervised Model Training**  
+- 🤝 Looking for help with **Machine Learning projects**  
+- 💬 Ask me about **TensorFlow, Arduino, or Python**  
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:sarkarchitran@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>  
-  &nbsp;
-  <a href="https://instagram.com/_.duh.its_chitran._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<p align="center">
+  <a href="mailto:sarkarchitran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/chitran-sarkar-50544b374" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://instagram.com/_.duh.its_chitran._">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chitran-sarkar-50544b374">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -52,74 +57,69 @@
 ### 🧠 Languages and Tools
 
 #### 💻 Programming Languages
-<p align="left">
-  <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpjcHdieXRobjY1ZzF1dmJvMDVibGRvaGc4OWQyMXgxeGt1NDBpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" height="100" title="Java"/>&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndiY3pzNGozemxvcTdvZWZzbXVjNm93eTNwODEyNGJ6NjZjaWtjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/q5veCQwHeThxOFqYZQ/giphy.gif" height="80" title="C++"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iaW9waXlkdTM2NzQ3eGQ2bHIzNXNmaHByZnFqNThlbXRld3dteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/udvEcwFgNFboJWcHIB/giphy.gif" height="30" title="C++"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iaW9waXlkdTM2NzQ3eGQ2bHIzNXNmaHByZnFqNThlbXRld3dteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/udvEcwFgNFboJWcHIB/giphy.gif" height="30" title="C++"/>&nbsp;
-  <img height=100px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhrYm9rcmJuODQwazFyeXI1bjV1Nno2amt4YTQ5NHpqNWRlZ3p2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-download-in-svg-png-gif-file-formats--programming-language-logo-logos-pack-icons-1174965.png?f=webp&w=256" height="100" title="TypeScript"/>&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFmY2VyNTQ2OWlrc29xbnBzbGxldzF5bmhocmM5dmQyaTNvemlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" height="100" title="PHP"/>&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" height="100" title="Bash"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="100" title="OpenCV"/>&nbsp;
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="70" title="Python"/>
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/java-animated-icon-gif-download-5806394.gif" height="150" title="Java"/>
+  <img src="https://media.giphy.com/media/q5veCQwHeThxOFqYZQ/giphy.gif" height="70" title="C"/>
+  <img src="https://media.lordicon.com/icons/wired/outline/1324-c-code-language.gif" height="70" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" title="TypeScript"/>
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" height="70" title="PHP"/>
+  <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png" height="70" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="70" title="OpenCV"/>
 </p>
 
 #### 🔬 AI / ML / Data Science
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="100" title="PyTorch"/>&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtOXZoNmJjZXA4ZWEzYTJzNWUyNXFvaG9iZDkwMDgxZnJmZHJhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.gif" height="100" title="TensorFlow"/>&nbsp;
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="70" title="PyTorch"/>
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" height="70" title="TensorFlow"/>
+    <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e13_logo.svg" height="70" title="TensorFlow"/>
 </p>
 
 #### 🌐 Web Development
-<p align="left">
-  <img height=100px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms4MzZhaHp2Y3BuZGgwenF4NHcwejB0eGl4eDBmejM3ZmM2dzBkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif"/>&nbsp;
-  <img height=100px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl0ZGZxM21zaTFpOG5qdGdyczRxbjkwbjZna24wYjVpcTFxM3RuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif"/>&nbsp;
-  <img height=100px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzF0NHY5NXg2cnh0ZzgxZHlrdHd5NGVsenp1dnVkZ3hocjFoYnc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>&nbsp;
-  <img height=100px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODloM2hhdWk3MDgwc2VkMzFmZ2wza3ViMzRjZmVia2J6eWp6Y3Z1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sr8xDpMwVKOHUWDVRD/giphy.gif"/>&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW14eG9qemtvd3R3cnRjODhzbjhkYm4wdm14MXUxZWkxeTkzMXh1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" height="100""/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="100" title="Django"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="100" title="MySQL"/>&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRxeHh6ZjRpYzJhajBzemlhMTVwd2IxZ3AwbjNlem9ucmN4bTRqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" height="130" title="MongoDB"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" title="Tailwind CSS"/>&nbsp;
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="70" title="HTML5"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="70" title="CSS3"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="70" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="70" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" title="MySQL"/>
+  <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" height="80" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="70" title="Tailwind CSS"/>
 </p>
 
 #### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBrNjc4eWlvemhnOHVvMmc4ZHVxcm03NzY2M3N3OGhtaTFhencxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" height="100" "/>&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21xYTlndmppdm83Ym05cWUzcnpxbDlrbDdreDllcmJzanV4OXBvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" height="100" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="100" title="Docker"/>&nbsp;
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdydnpzYWM5eHB2dTVoaTByY3VodGd2eDJkcXczd2hwaWd5ZmFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" height="100" title="VS Code"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/c6e4c4aa-e14c-484d-aa8e-df4b9cd12500" height="100" title="Ubuntu"/>&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q4NjVrMmR0czNqczF1OWp1c3h5OXRzb3dyeTF2OHE2M2t5dXRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zd8PWjBCHCIAo/giphy.gif" height="150" title="Linux"/>&nbsp;
+<p align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="70" title="Terminal"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="70" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" title="Docker"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="70" title="VS Code"/>
+  <img src="https://github.com/user-attachments/assets/c6e4c4aa-e14c-484d-aa8e-df4b9cd12500" height="70" title="Ubuntu"/>
+  <img src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" height="80" title="Linux"/>
 </p>
 
 #### 🤖 Hardware & Design
-<p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtwbWF0MHV5enB3NWhkcXphMnFucHN4djA3dW51dXo3amxuenZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pYKXqcgxnRQJdnTtdu/giphy.gif" height="150" title="Arduino"/>&nbsp;
-  <img height=100px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05b2k5eDVxNDUyZml0ZXZiZzJwNzNyYmZmZXRnNGg2cTFuOHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif"/>&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpzcTdqc3o1NjRrYnN5cmY5ZmpmcDQwNjhyNmp0ZnU2czl0YWRhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/CC0dAtZ8FOU10xfwIP/giphy.gif" height="150" title="Canva"/>&nbsp;
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0NW5qOWpocmtvMDl6aWh0NXJzdjFkd2h0MHl1YmhjMXdxbHFrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZIEqJCPv4D93FmUVTG/giphy.gif" height="100" title="Figma"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="100" title="Blender"/>&nbsp;
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2liOGE3ZWkwc3dhejB6MGczemJ3dWEzOW05YXo2aW9seG1oeWljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8823qBqr7skYHkks/giphy.gif" height="100" title="Photoshop"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="100" title="Jupyter Notebook"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="100" title="Anaconda"/>&nbsp;
+<p align="center">
+  <img src="https://media.giphy.com/media/pYKXqcgxnRQJdnTtdu/giphy.gif" height="80" title="Arduino"/>
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" height="80" title="Raspberry Pi"/>
+  <img src="https://media.giphy.com/media/CC0dAtZ8FOU10xfwIP/giphy.gif" height="80" title="Canva"/>
+  <img src="https://media.giphy.com/media/ZIEqJCPv4D93FmUVTG/giphy.gif" height="80" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="80" title="Blender"/>
+  <img src="https://media.giphy.com/media/RN8823qBqr7skYHkks/giphy.gif" height="80" title="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="80" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="80" title="Anaconda"/>
 </p>
 
 ---
- ###  What i do
 
-
-<br />
-
+### 🚀 What I Do
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="200" alt="Coding GIF"/>
+</p>
+
+---
+
+<h1 align="center">⚡️<i>Stay Awesome!</i>⚡️</h1>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Footer" />
 </p>
