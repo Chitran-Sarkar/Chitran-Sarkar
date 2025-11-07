@@ -2,9 +2,15 @@
   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="180" alt="Developer GIF"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#ff4d6d;">Chitran Sarkar</span></h1>
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FF4D6D&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Chitran+Sarkar;Full-Stack+Developer;ML+Enthusiast;Hardware+Tinkerer" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🔧 Hardware Tinkerer (Arduino & Sensors)</h3>
 <h4 align="center">from 🇮🇳 India</h4>
+
+<br>
 
 ---
 
@@ -17,40 +23,51 @@
   <img src="https://komarev.com/ghpvc/?username=chitran-sarkar&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
 
+<br>
+
 ---
 
 ### ⚙️ GitHub Analytics
+<br>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=chitran-sarkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitran-sarkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chitran-sarkar&show_icons=true&theme=tokyonight&hide_border=true" height="180" style="border-radius: 12px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chitran-sarkar&layout=compact&theme=tokyonight&hide_border=true" height="180" style="border-radius: 12px; margin: 10px;"/>
 </p>
+
+<br><br>
 
 ---
 
 ### 👨‍💻 About Me
+<br>
 
 - 🔭 Currently working on a **Garbage Detector** project  
 - 🌱 Learning to **build LLMs from scratch**  
 - 👯 Open to collaborating on **Deep Learning & Unsupervised Model Training**  
 - 🤝 Looking for help with **Machine Learning projects**  
-- 💬 Ask me about **TensorFlow, Arduino, or Python**  
+- 💬 Ask me about **TensorFlow, Arduino, or Python**
+
+<br><br>
 
 ---
 
 ### 📫 Connect with Me
+<br>
 
 <p align="center">
   <a href="mailto:sarkarchitran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/_.duh.its_chitran._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/chitran-sarkar-50544b374">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<br><br>
 
 ---
 
@@ -94,7 +111,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" title="Docker"/>
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" height="70" title="VS Code"/>
   <img src="https://github.com/user-attachments/assets/c6e4c4aa-e14c-484d-aa8e-df4b9cd12500" height="70" title="Ubuntu"/>
-  <img src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" height="80" title="Linux"/>
+  <img src="https://media.giphy.com/media/Zd8PWjBCHCIAo/giphy.gif" height="150" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="80" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="80" title="Anaconda"/>
 </p>
 
 #### 🤖 Hardware & Design
@@ -105,21 +124,25 @@
   <img src="https://media.giphy.com/media/ZIEqJCPv4D93FmUVTG/giphy.gif" height="80" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="80" title="Blender"/>
   <img src="https://media.giphy.com/media/RN8823qBqr7skYHkks/giphy.gif" height="80" title="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="80" title="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="80" title="Anaconda"/>
 </p>
+
+<br><br>
 
 ---
 
 ### 🚀 What I Do
+<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" height="200" alt="Coding GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR5dTkxMTc1MjRlMHhuNnllOG0waWEzcXE4b2M3dnAxcmVkajNiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" height="250"/>
 </p>
+
+<br>
 
 ---
 
-<h1 align="center">⚡️<i>Stay Awesome!</i>⚡️</h1>
+<!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Footer" />
+  <i>“Keep tinkering, keep learning.”</i><br><br>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 </p>
